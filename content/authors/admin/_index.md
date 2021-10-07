@@ -33,9 +33,9 @@ education:
       year: 2019
     - course: BSc in Liberal Arts and Science, Maths and Computer Science
       institution: Amsterdam University College
-      year: 2012
+      year: 2018
 superuser: true
 highlight_name: true
 title: Steinar Laenen
-email: ""
+email: steinar9@gmail.com
 ---
