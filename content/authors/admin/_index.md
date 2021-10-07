@@ -1,6 +1,6 @@
 ---
 role: PhD Theoretical Computer Science
-avatar_filename: profile_linkedin-modified.png
+avatar_filename: ""
 bio: My research interests are spectral graph theory, graph clustering, and
   unsupervised learning
 interests: []
@@ -39,6 +39,3 @@ highlight_name: true
 title: Steinar Laenen
 email: ""
 ---
-
-
-![test](profile_linkedin-modified.png "hello")
