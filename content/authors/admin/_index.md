@@ -39,3 +39,6 @@ highlight_name: true
 title: Steinar Laenen
 email: ""
 ---
+
+
+![test](profile_linkedin-modified.png "hello")
