@@ -1,6 +1,6 @@
 ---
 role: PhD Theoretical Computer Science
-avatar_filename: profile_linkedin.jpg
+avatar_filename: profile_linkedin-modified.png
 bio: My research interests are spectral graph theory, graph clustering, and
   unsupervised learning
 interests: []
