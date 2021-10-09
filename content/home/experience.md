@@ -26,21 +26,24 @@ experience:
     company: FiveAI
     company_url: 'https://www.five.ai/'
     company_logo: fiveai
-    location: Oxford
+    location: Oxford, UK
     date_start: '2019-12-01'
     date_end: '2020-12-13'
-    description: |2-
-		To
+    description: 'Researched  few-shot  learning  for  image  classification'
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+  - title: Summer Intern
+    company: University of Reykjavik
+    company_url: 'http://cadia.ru.is/'
+    company_logo: cadia
+    location: Reykjavik, Iceland
+    date_start: '2017-07-01'
+    date_end: '2017-08-31'
+    description: '
+	Worked on a project which aimed to research the
+    importance of bodily cues in social interaction. The work consisted of
+    designing and programming automated intelligent social behaviour for virtual
+    agents in Unity3D and C#. Constructed complex social behaviours for virtual
+    agents such as glancing, conversing, andgesticulating.'
 design:
   columns: '2'
 ---
