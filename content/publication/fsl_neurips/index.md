@@ -30,8 +30,8 @@ publication_short: At *NeurIPS 2021*
 abstract: Episodic learning is a popular practice among researchers and practitioners interested in few-shot learning. It consists of organising training in a series of learning problems (or episodes), each divided into a small training and validation subset to mimic the circumstances encountered during evaluation. But is this always necessary?In this paper, we investigate the usefulness of episodic learning in methods which use nonparametric approaches, such as nearest neighbours, at the level of the episode. For these methods, we not only show how the constraints imposed by episodic learning are not necessary, but that they in fact lead to a data-inefficient way of exploiting training batches.We conduct a wide range of ablative experiments with Matching and Prototypical Networks, two of the most popular methods that use nonparametric approaches at the level of the episode. Their "non-episodic" counterparts are considerably simpler, and significantly improve their performance in multiple few-shot classification datasets.
 
 # Summary. An optional shortened abstract.
-summary: 'We develop simple theory and use experiment to show that the episodic
-training setup for Matching Networks and Prototypical Networks is inefficient'
+summary: 'We develop simple theory and use experiments to show that the episodic
+training setup for Matching Networks and Prototypical Networks is inefficient.'
 
 
 tags: [Few-shot learning, meta-learning]
