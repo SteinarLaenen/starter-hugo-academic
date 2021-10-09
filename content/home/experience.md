@@ -31,7 +31,7 @@ experience:
     date_end: '2020-12-13'
     description: 'Researched  few-shot  learning  for  image  classification'
 
-  - title: Summer Intern
+  - title: Software Engineering Intern
     company: University of Reykjavik
     company_url: 'http://cadia.ru.is/'
     company_logo: cadia
@@ -44,6 +44,7 @@ experience:
     designing and programming automated intelligent social behaviour for virtual
     agents in Unity3D and C#. Constructed complex social behaviours for virtual
     agents such as glancing, conversing, andgesticulating.'
+
 design:
   columns: '2'
 ---
