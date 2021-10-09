@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Steinar Laenen # Website name
 baseurl: 'https://example.com/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
@@ -60,7 +60,7 @@ markup:
 related:
   threshold: 80
   includeNewer: true
-  toLower: true
+  toLwoer: true
   indices:
     - name: tags
       weight: 100

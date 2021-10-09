@@ -1,9 +1,8 @@
 ---
 role: PhD Theoretical Computer Science
-avatar_filename: ""
-bio: My research interests are spectral graph theory, graph clustering, and
-  unsupervised learning
-interests: []
+avatar_filename: "avatar.jpg"
+bio: My research interests are spectral graph theory, graph clustering, and unsupervised learning
+interests:
 social:
   - icon: envelope
     icon_pack: fas

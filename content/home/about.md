@@ -7,4 +7,3 @@ active: true
 author: admin
 widget_id: Steinar
 ---
-Test 123
