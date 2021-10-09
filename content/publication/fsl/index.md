@@ -32,7 +32,7 @@ abstract: Episodic learning is a popular practice among researchers and practiti
 # Summary. An optional shortened abstract.
 summary: 'By comparing Prototypical Networks
 with the classic Neighbourhoud Component Analysis, we show experimentally that the former`s episodic
-training setup in these methods is inefficient for few-shot learning.'
+training setup is inefficient for few-shot learning.'
 
 tags: [Few-shot learning, meta-learning]
 
