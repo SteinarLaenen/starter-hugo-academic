@@ -6,7 +6,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: email
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/SteinarLaenen
@@ -26,15 +26,25 @@ education:
   courses:
     - course: PhD in Theoretical Computer Science
       institution: University of Edinburgh
-      year: 2021
+      year: 2021 - present
     - course: MSc in Artificial Intelligence
       institution: University of Edinburgh
-      year: 2019
+      year: 2018 - 2019
     - course: BSc in Liberal Arts and Science, Maths and Computer Science
       institution: Amsterdam University College
-      year: 2018
+      year: 2015 - 2018
 superuser: true
 highlight_name: true
 title: Steinar Laenen
 email: steinar9@gmail.com
 ---
+I am a first year PhD student at the [Laboratory for Foundations in Computer
+      Science](URL "https://web.inf.ed.ac.uk/lfcs"), in the [School of
+      Informatics](URL "https://www.ed.ac.uk/informatics") at the University of
+		Edinburgh. I'm fortunate to be supervised by [Dr. He Sun](URL
+      "https://homepages.inf.ed.ac.uk/hsun4/").
+
+
+
+My current research focuses on developing (fast) clustering algorithms for
+graphs, using techniques from spectral graph theory.

@@ -25,16 +25,12 @@ experience:
   - title: Research Intern
     company: FiveAI
     company_url: 'https://www.five.ai/'
-    company_logo: org-gc
+    company_logo: fiveai
     location: Oxford
     date_start: '2019-12-01'
     date_end: '2020-12-13'
     description: |2-
-        Responsibilities include:
-
-        * Worked on FSL
-        * Torr and VGG groups
-        * etc
+		To
 
   - title: Professor of Semiconductor Physics
     company: University X
