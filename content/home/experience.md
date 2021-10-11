@@ -29,7 +29,11 @@ experience:
     location: Oxford, UK
     date_start: '2019-12-01'
     date_end: '2020-12-13'
-    description: 'Researched  few-shot  learning  for  image  classification'
+    description: 'Researched  few-shot  learning  for  image  classification at
+    FiveAI`s Oxford research group, which has close ties to the Torr Vision
+    Group at Oxford University. The work I did together with Luca Bertinetto
+    resulted in a contributed talk at the NeurIPS 2020 Meta Learning workshop,
+    and a NeurIPS 2021 paper.'
 
   - title: Software Engineering Intern
     company: University of Reykjavik
@@ -43,7 +47,7 @@ experience:
     importance of bodily cues in social interaction. The work consisted of
     designing and programming automated intelligent social behaviour for virtual
     agents in Unity3D and C#. Constructed complex social behaviours for virtual
-    agents such as glancing, conversing, andgesticulating.'
+    agents such as glancing, conversing, and gesticulating.'
 
 design:
   columns: '2'
