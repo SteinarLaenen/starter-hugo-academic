@@ -1,5 +1,5 @@
 ---
-role: PhD Theoretical Computer Science
+role: PhD Candidate Theoretical Computer Science
 avatar_filename: avatar.jpg
 bio: My research interests are spectral graph theory, graph clustering, and
   unsupervised learning

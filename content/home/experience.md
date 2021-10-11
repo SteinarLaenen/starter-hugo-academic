@@ -35,6 +35,20 @@ experience:
     resulted in a contributed talk at the NeurIPS 2020 Meta Learning workshop,
     and a NeurIPS 2021 paper.'
 
+  - title: Summer Intern
+    company: Warm Arctic
+    company_url: 'https://warmarctic.is/'
+    company_logo: warmarctic
+    location: Reykjavik, Iceland
+    date_start: '2018-07-01'
+    date_end: '2018-08-31'
+    description: 'I worked on a project where we used drones equipped with RGB
+    and infrared cameras to create orthomosaic maps of areas that contain
+    geothermal lineaments. I developed an anomaly detection tool to
+    automatically detect areas of geothermal importance using deep autoencoders
+    and a one-class SVM. This work got published at the Stanford workshop on Geothermal Reservoir Engineering.'
+
+
   - title: Software Engineering Intern
     company: University of Reykjavik
     company_url: 'http://cadia.ru.is/'
@@ -47,7 +61,8 @@ experience:
     importance of bodily cues in social interaction. The work consisted of
     designing and programming automated intelligent social behaviour for virtual
     agents in Unity3D and C#. Constructed complex social behaviours for virtual
-    agents such as glancing, conversing, and gesticulating.'
+    agents such as glancing, conversing, and gesticulating. This work got
+    published at a virtual agents conference.'
 
 design:
   columns: '2'

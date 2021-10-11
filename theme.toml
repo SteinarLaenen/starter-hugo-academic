@@ -1,7 +1,7 @@
 name = "Academic"
 license = "MIT"
 licenselink = "https://github.com/wowchemy/starter-hugo-academic/blob/master/LICENSE.md"
-description = "Use the website builder to easily build your site with 50+ widgets and deploy with one click! Fully customize your site with themes, plugins, and language packs."
+description = "Use the website builder to easily build your site with 50+ widgets and deploy with one click! Fully customize your site with themes, plugins, and language packs. <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>"
 homepage = "https://github.com/wowchemy/starter-hugo-academic/"
 demosite = "https://wowchemy.com/templates/"
 min_version = "0.84"
