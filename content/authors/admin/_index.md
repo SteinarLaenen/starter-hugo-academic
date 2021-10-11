@@ -42,7 +42,7 @@ email: steinar9@gmail.com
 I am a first year PhD student at the [Laboratory for Foundations in Computer
       Science](URL "https\://web.inf.ed.ac.uk/lfcs"), in the [School of
       Informatics](URL "https\://www.ed.ac.uk/informatics") at the University of
-		Edinburgh. I'm fortunate to be supervised by [Dr. He Sun](URL "https\://homepages.inf.ed.ac.uk/hsun4/").
+		Edinburgh. I am supervised by [Dr. He Sun](URL "https\://homepages.inf.ed.ac.uk/hsun4/").
 
 Before that I was a research intern at [Five](http://www.five.ai), in their Oxford research
 group, where I worked on few-shot learning together with [Dr. Luca Bertinetto](http://research.gxstudios.net/)
