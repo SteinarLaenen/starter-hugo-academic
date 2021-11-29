@@ -1,6 +1,6 @@
 ---
 title: Research Team co-lead at EUFS
-summary: While doing my AI MSc at the University of Edinburgh, I was part of the autonomous driving team at Edinburgh University Forumula Student , where I co-led the research team. We implemented a deep ConvNet to drive the car autonomously in ROS simulation using supervised learning, and we implemented an end-to-end controller that learns to drive a car from scratch using Deep Reinforcement Learning.
+summary: While doing my AI MSc at the University of Edinburgh, I was part of the autonomous driving team at Edinburgh University Forumula Student , where I co-led the research team. We implemented a deep ConvNet to drive the car autonomously in ROS simulation using supervised learning.
 tags:
 date: "2016-04-27T00:00:00Z"
 
