@@ -44,10 +44,10 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://proceedings.neurips.cc/paper/2021/hash/cdfa4c42f465a5a66871587c69fcfa34-Abstract.html'
 url_code: 'https://github.com/fiveai/on-episodes-fsl'
 url_dataset: ''
-url_poster: 'https://proceedings.neurips.cc/paper/2021/hash/cdfa4c42f465a5a66871587c69fcfa34-Abstract.html'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
