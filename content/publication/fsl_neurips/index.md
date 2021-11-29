@@ -1,5 +1,5 @@
 ---
-title: "Episodic Learning in Nonparametric Few-shot Classification: A Case Study"
+title: "On Episodes, Prototypical Networks, and Few-Shot Learning"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -47,7 +47,7 @@ featured: true
 url_pdf: ''
 url_code: 'https://github.com/fiveai/on-episodes-fsl'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://proceedings.neurips.cc/paper/2021/hash/cdfa4c42f465a5a66871587c69fcfa34-Abstract.html'
 url_project: ''
 url_slides: ''
 url_source: ''
