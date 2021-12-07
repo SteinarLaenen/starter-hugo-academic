@@ -40,7 +40,7 @@ title: Steinar Laenen
 email: steinar9@gmail.com
 ---
 I am a first year PhD student at the [Laboratory for Foundations in Computer
-      Science](https\://web.inf.ed.ac.uk/lfcs), in the [School of Informatics](https\://www.ed.ac.uk/informatics) at the University ofEdinburgh. I am supervised by [Dr. He Sun](https\://homepages.inf.ed.ac.uk/hsun4/).
+      Science](https://web.inf.ed.ac.uk/lfcs), in the [School of Informatics](https://www.ed.ac.uk/informatics) at the University ofEdinburgh. I am supervised by [Dr. He Sun](https://homepages.inf.ed.ac.uk/hsun4/).
 
 Before that I was a research intern at [Five](http://www.five.ai), in their Oxford research
 group, where I worked on few-shot learning together with [Dr. Luca Bertinetto](https://www.robots.ox.ac.uk/~luca/)
