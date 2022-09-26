@@ -39,7 +39,7 @@ highlight_name: true
 title: Steinar Laenen
 email: steinar9@gmail.com
 ---
-I am a first year PhD student at the [Laboratory for Foundations in Computer
+I am a second year PhD student at the [Laboratory for Foundations in Computer
       Science](https://web.inf.ed.ac.uk/lfcs), in the [School of
       Informatics](https://www.ed.ac.uk/informatics) at the University of Edinburgh. I am supervised by [Dr. He Sun](https://homepages.inf.ed.ac.uk/hsun4/).
 
