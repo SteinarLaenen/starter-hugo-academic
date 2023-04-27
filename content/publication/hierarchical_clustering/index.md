@@ -28,8 +28,7 @@ publication_types: ["1"]
 publication: In *International Conference on Machine Learning 2023*
 publication_short: To appear at *ICML 2023*
 
-abstract: This paper studies  efficient algorithms for constructing
-hierarchical clustering~(\textsf{HC}) with respect to Dasgupta's cost function. For any input graph G with a clear cluster-structure, our presented algorithm runs in nearly-linear time in the input size of G, and returns an O(1)-approximate HC tree with respect to Dasgupta's cost function; hence both the runtime and approximation ratio are optimal up to some poly-logarithmic factors.  We further compare the performance of our algorithm against the previous state-of-the-art on different datasets, and report the experimental results.
+abstract: This paper studies  efficient algorithms for constructing hierarchical clustering~(HC) with respect to Dasgupta's cost function. For any input graph G with a clear cluster-structure, our presented algorithm runs in nearly-linear time in the input size of G, and returns an O(1)-approximate HC tree with respect to Dasgupta's cost function; hence both the runtime and approximation ratio are optimal up to some poly-logarithmic factors.  We further compare the performance of our algorithm against the previous state-of-the-art on different datasets, and report the experimental results.
 
 # Summary. An optional shortened abstract.
 summary: ''
