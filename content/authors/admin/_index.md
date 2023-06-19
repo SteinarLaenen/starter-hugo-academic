@@ -25,7 +25,7 @@ organizations:
     url: https://www.ed.ac.uk/
 education:
   courses:
-    - course: PhD in Theoretical Computer Science
+    - course: PhD in Computer Science
       institution: University of Edinburgh
       year: 2021 - present
     - course: MSc in Artificial Intelligence
