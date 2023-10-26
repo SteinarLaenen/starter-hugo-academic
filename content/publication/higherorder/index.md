@@ -45,7 +45,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://proceedings.neurips.cc/paper/2020/file/0a5052334511e344f15ae0bfafd47a67-Paper.pdf'
-url_code: ''
+url_code: 'https://github.com/SteinarLaenen/Nearly-Optimal-Hierarchical-Clustering-for-Well-Clustered-Graphs'
 url_dataset: ''
 url_poster: ''
 url_project: ''
