@@ -26,7 +26,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *International Conference on Machine Learning 2023*
-publication_short: To appear at *ICML 2023*
+publication_short: *ICML 2023*
 
 abstract: This paper studies  efficient algorithms for constructing hierarchical clustering (HC) with respect to Dasgupta's cost function. For any input graph G with a clear cluster-structure, our presented algorithm runs in nearly-linear time in the input size of G, and returns an O(1)-approximate HC tree with respect to Dasgupta's cost function; hence both the runtime and approximation ratio are optimal up to some poly-logarithmic factors.  We further compare the performance of our algorithm against the previous state-of-the-art on different datasets, and report the experimental results.
 
@@ -45,14 +45,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/2306.09950.pdf'
+url_code: 'https://github.com/SteinarLaenen/Nearly-Optimal-Hierarchical-Clustering-for-Well-Clustered-Graphs'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://slideslive.com/39002821/a-nearlyoptimal-construction-for-wellclustered-graphs?ref=search-presentations-nearly-optimal+hierarchical+clustering'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
