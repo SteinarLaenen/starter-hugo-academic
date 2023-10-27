@@ -24,7 +24,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2nd Topology Algebra and Geometry Workshop at the International Conference on Machine Learning 2023*
-publication_short: at *TAGL ML workshop at ICML 2023*
+publication_short: *TAGL ML workshop at ICML 2023*
 
 abstract: Neural network pruning has gained significant attention for its potential to reduce computational resources required for training and inference. A large body of research has shown that networks can be pruned both after training and at initialisation, while maintaining competitive accuracy compared to dense networks. However, current methods rely on iteratively pruning or repairing the network to avoid over-pruning and layer collapse. Recent work has found that by treating neural networks as a sequence of bipartite graphs, pruning can be studied through the lens of spectral graph theory. Therefore, in this work, we propose a novel pruning approach using spectral sparsification, which aims to preserve meaningful properties of a dense graph with a sparse subgraph, by preserving the spectrum of the dense graph's adjacency matrix. We empirically validate and investigate our method, and show that one-shot pruning using spectral sparsification preserves performance at higher levels of sparsity compared to its one-shot counterparts. Additionally, we theoretically analyse our method with respect to local and global connectivity.
 
