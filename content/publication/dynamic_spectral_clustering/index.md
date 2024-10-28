@@ -25,7 +25,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *International Conference on Machine Learning 2024*
-publication_short: to appear at *ICML 2024*
+publication_short: at *ICML 2024*
 
 abstract: This paper studies clustering algorithms for dynamically evolving graphs $\{G_t\}$, in which new edges (and potential new vertices) are added into a graph, and the underlying cluster structure of the graph can gradually change. The paper  proves that, under some mild condition on the cluster-structure, the clusters of the final graph $G_T$ of $n_T$ vertices at time $T$ can be well approximated by a  dynamic variant of the spectral clustering algorithm. The algorithm runs in  amortised update time $O(1)$ and  query time $o(n_T)$. Experimental studies on both synthetic and real-world datasets  further  confirm the practicality of our designed algorithm.
 
