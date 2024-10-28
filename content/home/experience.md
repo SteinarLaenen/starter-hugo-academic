@@ -26,7 +26,7 @@ experience:
     company: Google
     company_url: 'https://research.google/teams/operations-research/'
     company_logo: google
-    location: Cambdirge, MA, USA
+    location: Cambridge, MA, USA
     date_start: '2024-08-05'
     date_end: '2024-10-25'
     description: ''
