@@ -1,0 +1,6 @@
+@inproceedings{laenen2024dynamic,
+  title={Dynamic Spectral Clustering with Provable Approximation Guarantee},
+  author={Laenen, Steinar and Sun, He},
+  booktitle={International Conference on Machine Learning},
+  year=2024
+}
